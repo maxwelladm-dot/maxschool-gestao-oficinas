@@ -1,0 +1,10 @@
+# Ignorar arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar logs de erro
+error_log
+access_log
+
+# Caso você tenha arquivos de conexão com senhas reais no futuro
+# config.local.php
